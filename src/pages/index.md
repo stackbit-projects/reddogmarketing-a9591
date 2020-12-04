@@ -6,7 +6,7 @@ sections:
     subtitle: Accelerate growth with creative marketing solutions
     content: ''
     actions:
-      - label: Try Free
+      - label: Contact Us
         url: /pricing
         style: primary
       - label: Learn More
