@@ -9,10 +9,6 @@ sections:
       - label: Contact Us
         url: /contact
         style: primary
-      - label: ''
-        url: ''
-        style: secondary
-        has_icon: false
     image: images/classic/hero.png
     media_position: left
     media_width: fifty
