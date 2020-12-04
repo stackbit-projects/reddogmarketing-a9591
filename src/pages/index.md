@@ -10,7 +10,7 @@ sections:
         url: /contact
         style: primary
       - label: ''
-        url: /features
+        url: ''
         style: secondary
     image: images/classic/hero.png
     media_position: left
