@@ -7,7 +7,7 @@ sections:
     content: ''
     actions:
       - label: Contact Us
-        url: /pricing
+        url: /contact
         style: primary
       - label: Learn More
         url: /features
