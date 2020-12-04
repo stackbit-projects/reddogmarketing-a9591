@@ -9,7 +9,7 @@ sections:
       - label: Contact Us
         url: /contact
         style: primary
-    image: images/classic/hero.png
+    image: images/DogLogo3.png
     media_position: left
     media_width: fifty
     align: left
