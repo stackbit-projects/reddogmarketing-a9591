@@ -12,6 +12,7 @@ sections:
       - label: ''
         url: ''
         style: secondary
+        has_icon: true
     image: images/classic/hero.png
     media_position: left
     media_width: fifty
