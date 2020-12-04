@@ -9,7 +9,7 @@ sections:
       - label: Contact Us
         url: /contact
         style: primary
-      - label: Learn More
+      - label: ''
         url: /features
         style: secondary
     image: images/classic/hero.png
